@@ -1,7 +1,7 @@
 import React from 'react'
 import Button from './Button'
 import logo from  './images/logo.svg'
-import Hamburger from './Hamburger'
+
 
 function Navbar() {
   return (
